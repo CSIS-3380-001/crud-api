@@ -31,9 +31,13 @@ The server will start running on http://localhost:3000.
 The following API endpoints are available:
 
 `GET /getusers` : Get all users.
+
 `GET /getuser/:username` : Get a specific user by username.
+
 `POST /newuser` : Create a new user.
+
 `PUT /user/:username` : Update a user by username.
+
 `DELETE /user/:username` : Delete a user by username.
 
 ## Testing
