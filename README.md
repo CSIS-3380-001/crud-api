@@ -39,6 +39,6 @@ The following API endpoints are available:
 ## Testing
 To run the test cases, use the following command:
 
-`npm test`
+`npm run tests`
 
 The tests are written using the Jest framework and utilize the Supertest library for making HTTP requests to the API.
